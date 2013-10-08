@@ -1,0 +1,29 @@
+body {
+      text-align: center;
+      background: url("http://i.imgur.com/ubkSmFm.jpg");
+      background-size: cover;
+      background-position: center;
+      color: white;
+      font-family: helvetica;
+    }
+    p.p1 {
+      font-size: 22px;
+      margin-left: auto;
+      margin-right: auto;
+      width: 23em;
+      margin-top: 100px;
+    }
+    h2 {
+      margin-top: 50px;
+    }
+    input {
+      border: 0;
+      padding: 10px;
+      font-size: 18px;
+    }
+    button {	
+      background: red;
+      color: white;
+      padding: 10px;
+      font-size: 18px;
+    }
